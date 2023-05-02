@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+    color: white;
+    align-items: center;
+    margin: 10%;
+}
+
+#img {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 15%;
+    gap: 10%;
+    flex-wrap: wrap;
+    height: 300px;
+}

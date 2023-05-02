@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+    color: white;
+    margin: 10%;
+}
+
+#list {
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    padding: 10%;
+}
